@@ -2,7 +2,7 @@
   "name": "herosjs",
   "version": "0.1.0",
   "private": true,
-  "homepgae":"https://ccm-smart.github.io/herosjs",
+  "homepage":"https://ccm-smart.github.io/herosjs",
   "dependencies": {
     "@babel/helper-create-class-features-plugin": "^7.14.6",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
