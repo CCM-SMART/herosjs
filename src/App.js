@@ -38,7 +38,7 @@ return (
         <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Home} />
+          <Route path='/home' exact component={Home} />
           <Route path='/marvel' component={Marvel} />
           
           <Route path='/dc' component={DC} />
