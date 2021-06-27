@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/herosjs/static/css/main.7e1058ef.chunk.css",
+    "main.js": "/herosjs/static/js/main.2d00fb5f.chunk.js",
+    "main.js.map": "/herosjs/static/js/main.2d00fb5f.chunk.js.map",
+    "runtime-main.js": "/herosjs/static/js/runtime-main.4f1a2099.js",
+    "runtime-main.js.map": "/herosjs/static/js/runtime-main.4f1a2099.js.map",
+    "static/js/2.83363512.chunk.js": "/herosjs/static/js/2.83363512.chunk.js",
+    "static/js/2.83363512.chunk.js.map": "/herosjs/static/js/2.83363512.chunk.js.map",
+    "static/js/3.b03fec21.chunk.js": "/herosjs/static/js/3.b03fec21.chunk.js",
+    "static/js/3.b03fec21.chunk.js.map": "/herosjs/static/js/3.b03fec21.chunk.js.map",
+    "index.html": "/herosjs/index.html",
+    "static/css/main.7e1058ef.chunk.css.map": "/herosjs/static/css/main.7e1058ef.chunk.css.map",
+    "static/js/2.83363512.chunk.js.LICENSE.txt": "/herosjs/static/js/2.83363512.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/herosjs/static/media/MARVEL.8ed744c6.png",
+    "static/media/DC.css": "/herosjs/static/media/dc-wonder.970ba2d6.jpg",
+    "static/media/Marvel.css": "/herosjs/static/media/marvel-wolverine.ee676488.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f1a2099.js",
+    "static/js/2.83363512.chunk.js",
+    "static/css/main.7e1058ef.chunk.css",
+    "static/js/main.2d00fb5f.chunk.js"
+  ]
+}
