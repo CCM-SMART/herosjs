@@ -1,9 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './DC.css';
 
-class DC extends Component {
-
-  render() {
+const DC = () => {  
     return (
       <>
         <h1>Heros de DC</h1>
@@ -43,7 +41,7 @@ class DC extends Component {
 
             </div>
           </a>
-          <a className="todo_dc" href="/robin">
+          <a className="todo_dc" href="/robin" >
             <div className="images_robin">
 
             </div>
@@ -63,5 +61,5 @@ class DC extends Component {
       </>
     );
   }
-}
+
 export default DC;

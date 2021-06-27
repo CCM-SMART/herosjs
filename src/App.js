@@ -40,8 +40,8 @@ return (
         <Switch>
           <Route path='/home' exact component={Home} />
           <Route path='/marvel' component={Marvel} />
-          
           <Route path='/dc' component={DC} />
+          
           <Route path='/cyclops' component={cyclops} />
           <Route path='/captain' component={captain} />
           <Route path='/hulk' component={hulk} />
