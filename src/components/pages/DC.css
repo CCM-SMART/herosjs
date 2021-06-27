@@ -42,10 +42,7 @@ h1{
     grid-template-columns: repeat(4, 1fr);
     position: relative;
 }
-.todo_dc:hover{
-    opacity: 80%;
-    transition: 3ms all ease-in-out;
-}
+
 .images_batman{
     margin-top: 20px;
     background: url('../heroes/dc-batman.jpg')

@@ -19,9 +19,7 @@ h1{
     grid-template-columns: repeat(4, 1fr);
     position: relative;
 }
-.todo:hover{
-    opacity: 80%;
-}
+
 .images_captain{
     margin-top: 20px;
     background: url('../heroes/marvel-captain.jpg')
